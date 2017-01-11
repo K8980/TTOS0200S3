@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApplication1
+
+//jed grksg esr 
 {
     class Program
     {
